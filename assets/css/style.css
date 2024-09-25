@@ -125,7 +125,7 @@ a {
 }
 
 .bannercontainer {
-  width: 100%;
+  width: 95%;
   height: auto;
   min-height: 550px;
 
@@ -140,7 +140,7 @@ a {
   background: url("../img/car1.png");
 
   background-position: center;
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   object-fit: cover;
 }
